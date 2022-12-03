@@ -1,0 +1,7 @@
+.vscode
+Assembly-CSharp.csproj
+Chicken Game.sln
+Library/
+Logs/
+UserSettings/
+obj/
